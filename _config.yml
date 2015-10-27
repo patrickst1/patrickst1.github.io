@@ -3,10 +3,16 @@ title: Patrick Stachofsky
 email: patrickst@mac.com
 description: > # this means to ignore newlines until "baseurl:"
   Here sits my collection of lessons learned, insights, and opinions in the art of software development.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: pstachofsky
 github_username:  patrickst1
+stackoverflow_access:
+  url: 231621/patrick
+  username: patrickst1
+linkedin_access:
+  url: patrick-stachofsky/38/223/236
+  username: patrickst1
 
 # Build settings
 markdown: kramdown
