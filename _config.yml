@@ -1,8 +1,7 @@
 # Site settings
 title: Patrick Stachofsky
 email: patrickst@mac.com
-description: > # this means to ignore newlines until "baseurl:"
-  Yep, you guessed it, another collection of rablings and rantings about software engineering...
+description: > # Yep, you guessed it, another collection of ramblings and rantings about software engineering...
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: pstachofsky
