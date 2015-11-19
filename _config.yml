@@ -3,7 +3,7 @@ title: Patrick Stachofsky
 email: patrickst@mac.com
 description: > # Yep, you guessed it, another collection of ramblings and rantings about software engineering...
 # baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://pstachofsky.net" # the base hostname & protocol for your site
 twitter_username: pstachofsky
 github_username:  patrickst1
 stackoverflow_access:
