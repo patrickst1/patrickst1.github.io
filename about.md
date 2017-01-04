@@ -6,12 +6,16 @@ permalink: /about/
 
 # Howdy!
 
-Thanks for stopping by, I hope that you have found something interesting, or even better, something of use.
+As I'm sure you can tell from the title on this site, my name is **Patrick Stachofsky**. My beautiful wife and two awesome (and slightly crazy) kids and I currently call Kansas City home. We moved here in the summer of 2012 from Denver, Colorado and are still having fun exploring and learning the area, which of course means trying to find the best BBQ in town!
 
-The software community in general has been fantastic from day one. So much so that I felt it was time to start returning the favor. I started dabbling way back in the late 1990's with HTML which led me on a slow and winding journey through many different languages and paradigms. Some of them I learned on my own, some were through work and some of the more obscure were because of school.
+I grew up in the small-ish town of Greeley, Colorado. Prior to leaving town for Denver I was working as a technical trainer for a 3rd party call center vendor. This was the job that reignited my interest in computers and technology. I started playing with HTML and other early web technologies by making support tools and content for trainees.
 
-For a long time it was simply a hobby, but the light finally switched on that it was what I really enjoyed doing, which is what pointed me in the direction of a formal education. While working and learning my family grew to four people and we relocated to Kansas City from Denver which afforded me my first official software developer job with Perceptive Software.
+In the summer of 2000 I moved down to Denver and brought my interest with me. I started working for Nextel (the cell phone with the walkie-talkie that chirped) doing customer service. While waiting for calls I started exploring VBA and MS Excel. It was at Nextel that I met my wife and moved up the food chain to front line supervisor and finally transitioned into a Business Analyst. The back office position provided me with the opportunity to explore more technologies such as .NET and SQL.
 
-The last three or so years have taught me so much and so I would like to say __thank you__ to my co-workers as well as the software community in general. If I ever had an issue (and I have had a ton) I was usually able to find a kind soul who had gone through it before and shared their experiences or took the time to answer my "silly" questions on Stack Overflow.
+I realized that it was time to make this hobby into my profession so I started on the path to earn my Computer Science degree. My wife was also working on her BA, which presented her with the opportunity to jump into her Masters. We also added two children to our family while continuing to work full time has made school a very long term project.
 
-## Thank you!
+At the beginning of 2012 we decided that it was time for a change of scenery. My wife wanted to move closer to her sister and mother, and we wanted our kids to grow up close to their cousins. I was lucky to land a great job with Perceptive Software as a software engineer where I am still employed today, although we are now apart of Lexmark.
+
+It has been a fun journey so far and I am excited for what lies ahead.
+
+Thanks for taking the time and please feel free to shoot me an e-mail at <a href="mailto:{{ site.email }}">{{ site.email }}</a>
